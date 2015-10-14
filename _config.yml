@@ -3,7 +3,7 @@ title: Erichain
 email: jyamol520@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Created By Erichain.
-baseurl: "/erihome" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 github_username:  Erichain
 
 # Build settings
